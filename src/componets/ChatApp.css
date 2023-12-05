@@ -1,0 +1,67 @@
+.logo{
+    text-decoration-color: burlywood;
+    
+}
+.container{
+    background-position: center;
+}
+.side{
+    height: 140vh;
+    border-radius: 10px;
+}
+.all{
+    font-size: larger;
+    
+}
+.bt{
+    height: 8vh;
+    width: 300px;
+    background-color: burlywood;
+    border-radius: 14px;
+    border: none;
+}
+.sidechat1{
+    background-color:darkgray;
+    border-radius: 50px;
+    height: 13vh;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 0;
+    margin: 0;
+    
+}
+.small{
+    
+      
+      background-color: rgb(21, 151, 108);
+      
+} 
+.plusicon{
+    color:burlywood ;
+}      
+.right{
+    height: 140vh;
+    border-radius: 10px;
+
+}
+.righthead{
+    background-color:rgb(150, 143, 143);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.msg1{
+    background-color: darksalmon;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.text{
+    background-color: rgb(172, 219, 204);
+    border-radius: 20px;
+}
+.logs{
+    color: darksalmon;
+}
